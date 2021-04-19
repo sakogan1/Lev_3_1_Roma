@@ -98,7 +98,7 @@ color: #e7bc0e;
 .uppercaseText
 {
     display: flex;
-    margin: 0 auto;
+    padding-left: 180px ;
     padding-top: 200px;
 }
 .uppercaseText div
