@@ -122,8 +122,9 @@ color: #e7bc0e;
 }
 .space
 {
-    margin-right: 0;
-    width: 100vw;
+    
+    margin: 0 0 0 0;
+    padding: 0;
 }
 .logo1{
     width:100vw;
